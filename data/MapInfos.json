@@ -4,8 +4,9 @@ null,
 {"id":2,"expanded":true,"name":"Testing Dungeon","order":2,"parentId":1,"scrollX":546,"scrollY":318.6666666666667},
 {"id":3,"expanded":true,"name":"CC's House","order":3,"parentId":0,"scrollX":546,"scrollY":318.6666666666667},
 {"id":4,"expanded":true,"name":"Inside CC's House","order":4,"parentId":3,"scrollX":546,"scrollY":318.6666666666667},
-{"id":5,"expanded":true,"name":"CC's House -> Main Town","order":7,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":6,"expanded":true,"name":"First Town","order":8,"parentId":5,"scrollX":759.3333333333334,"scrollY":520.6666666666666},
-{"id":7,"expanded":false,"name":"Abandoned House","order":6,"parentId":3,"scrollX":546,"scrollY":318.6666666666667},
-{"id":8,"expanded":false,"name":"Comf Room","order":5,"parentId":4,"scrollX":546,"scrollY":318.6666666666667}
+{"id":5,"expanded":true,"name":"CC's House -> Main Town","order":8,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"First Town","order":9,"parentId":5,"scrollX":759.3333333333334,"scrollY":520.6666666666666},
+{"id":7,"expanded":false,"name":"Abandoned House","order":7,"parentId":3,"scrollX":546,"scrollY":318.6666666666667},
+{"id":8,"expanded":false,"name":"Comf Room","order":5,"parentId":4,"scrollX":546,"scrollY":318.6666666666667},
+{"id":9,"expanded":false,"name":"Kitchen","order":6,"parentId":4,"scrollX":546,"scrollY":318.6666666666667}
 ]
