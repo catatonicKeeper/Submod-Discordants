@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":true,"name":"CC's House -> Main Town","order":9,"parentId":0,"scrollX":389,"scrollY":640.5},
 {"id":6,"expanded":true,"name":"First Town","order":10,"parentId":5,"scrollX":759,"scrollY":425.5},
 {"id":7,"expanded":false,"name":"Abandoned House","order":8,"parentId":3,"scrollX":546,"scrollY":318.6666666666667},
-{"id":8,"expanded":false,"name":"Comf Room","order":5,"parentId":4,"scrollX":546,"scrollY":318.6666666666667},
+{"id":8,"expanded":false,"name":"Comf Room","order":5,"parentId":4,"scrollX":397,"scrollY":311.5},
 {"id":9,"expanded":false,"name":"Kitchen","order":6,"parentId":4,"scrollX":397,"scrollY":311.5},
 {"id":10,"expanded":false,"name":"CC's Room","order":7,"parentId":4,"scrollX":397,"scrollY":311.5}
 ]
