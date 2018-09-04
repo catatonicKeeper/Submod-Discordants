@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":true,"name":"Comf Room","order":5,"parentId":4,"scrollX":397,"scrollY":311.5},
 {"id":9,"expanded":false,"name":"Kitchen","order":7,"parentId":4,"scrollX":726.2222222222222,"scrollY":419.55555555555554},
 {"id":10,"expanded":false,"name":"CC's Room","order":6,"parentId":4,"scrollX":726.2222222222222,"scrollY":419.55555555555554},
-{"id":11,"expanded":false,"name":"CKHouse","order":11,"parentId":6,"scrollX":427,"scrollY":320.5}
+{"id":11,"expanded":false,"name":"CKHouse","order":11,"parentId":6,"scrollX":411,"scrollY":304.5}
 ]
