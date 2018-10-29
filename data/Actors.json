@@ -11,7 +11,7 @@ null,
 {"id":9,"battlerName":"","characterIndex":0,"characterName":"walkMaster2","classId":8,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"cactus temp face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cactus","nickname":"","note":"","profile":""},
 {"id":10,"battlerName":"","characterIndex":1,"characterName":"walkMaster2","classId":9,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Doc","nickname":"","note":"","profile":""},
 {"id":11,"battlerName":"","characterIndex":0,"characterName":"$cipahWalk2x","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"cipah-portraits","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cipah","nickname":"","note":"","profile":""},
-{"id":12,"battlerName":"","characterIndex":2,"characterName":"walkMaster1","classId":11,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"CoolthulhuSubModRPG","traits":[],"initialLevel":1,"maxLevel":99,"name":"Coolthulu","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":2,"characterName":"walkMaster1","classId":11,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"cool-frame-tier-1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Coolthulu","nickname":"","note":"","profile":""},
 {"id":13,"battlerName":"","characterIndex":0,"characterName":"$zeadWalk2x","classId":12,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"zead-portrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zeadkin","nickname":"","note":"","profile":""},
 {"id":14,"battlerName":"","characterIndex":2,"characterName":"cactus_doc_nebWalkFullWIP ","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"nh-frame-tier-1","traits":[],"initialLevel":1,"maxLevel":99,"name":"NH","nickname":"","note":"","profile":""}
 ]
